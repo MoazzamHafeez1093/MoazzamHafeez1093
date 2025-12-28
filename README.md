@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, I'm Moazzam! 👋
+#### 🚀 DevOps Enthusiast | Cloud Engineer | Future MLOps Expert
 
-<!--
-**MoazzamHafeez1093/MoazzamHafeez1093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are my GitHub Stats:
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoazzamHafeez1093&show_icons=true&theme=radical" alt="Moazzam's Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoazzamHafeez1093&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,python,linux,git,githubactions" />
+  </a>
+</p>
+
+---
+
+### ⚡ Activity
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moazzamhafeez5492&theme=radical" alt="GitHub Streak" />

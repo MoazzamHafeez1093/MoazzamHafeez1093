@@ -6,8 +6,9 @@
 
 <p>
   <a href="https://www.linkedin.com/in/moazzam-hafeez-aa6a70168/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:moazzaam21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -55,7 +56,7 @@ looking_for: DevOps / Cloud Engineer roles (Pakistan + Remote)
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoazzamHafeez1093&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoazzamHafeez1093&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" height="170"/>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MoazzamHafeez1093&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
 
 </div>
@@ -63,6 +64,20 @@ looking_for: DevOps / Cloud Engineer roles (Pakistan + Remote)
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MoazzamHafeez1093&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoazzamHafeez1093/MoazzamHafeez1093/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoazzamHafeez1093/MoazzamHafeez1093/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/MoazzamHafeez1093/MoazzamHafeez1093/output/github-snake.svg" />
+</picture>
 
 </div>
 
